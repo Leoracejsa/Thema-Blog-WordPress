@@ -1,4 +1,4 @@
-Tema criado para blog
+<h1>Tema criado para blog</h1>
 
 O usuário poderá colocar as imagens direto pelo customizer(Personalizar) do tema;
 
